@@ -1,0 +1,13 @@
+body {
+  line-height: 0.95rem;
+}
+
+input {
+  cursor: pointer;
+  margin: 0.25em;
+  padding: 0;
+  transition: all 1.3s ease;
+}
+input:checked {
+  transform: scale(2);
+}
